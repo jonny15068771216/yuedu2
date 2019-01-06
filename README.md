@@ -1,4 +1,4 @@
-# yuedu
+# yuedu2
 
 > A Vue.js project
 
